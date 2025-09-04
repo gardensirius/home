@@ -32,7 +32,7 @@ const Services = () => {
     {
       icon: Wrench,
       title: "Manutenções",
-      description: "Serviços de manutenção preventiva e corretiva em jardins, piscinas, sistemas de irrigação",
+      description: "Serviços de manutenção preventiva e corretiva em jardins, piscinas e sistemas de irrigação.",
       features: ["Poda especializada", "Fertilização", "Controle de pragas"],
       gradient: "from-earth to-nature",
       bgColor: "earth/10"
