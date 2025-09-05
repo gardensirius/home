@@ -36,7 +36,7 @@ const Header = () => {
               <Phone className="w-4 h-4" />
               <span>(85) 99419-8383 / (85) 98108-3612</span>
             </div>
-            <a href="https://wa.me/85994198383" target="_blank" className="text-primary-foreground px-3 rounded-sm h-9 flex items-center justify-center bg-gradient-to-r from-primary to-nature hover:from-primary-hover hover:to-primary">
+            <a href="https://wa.me/+5585994198383" target="_blank" className="text-primary-foreground px-3 rounded-sm h-9 flex items-center justify-center bg-gradient-to-r from-primary to-nature hover:from-primary-hover hover:to-primary">
               Solicitar Orçamento
             </a>
           </div>
@@ -62,11 +62,11 @@ const Header = () => {
               <div className="pt-4 border-t border-border">
                 <div className="flex items-center space-x-2 text-sm text-muted-foreground mb-3">
                   <Phone className="w-4 h-4" />
-                  <span>(11) 9999-9999</span>
+                  <span>(85) 99419-8383 / (85) 98108-3612</span>
                 </div>
-                <Button size="sm" className="w-full bg-gradient-to-r from-primary to-nature">
+                <a href="https://wa.me/+5585994198383" target="_blank" className="text-primary-foreground px-3 rounded-sm h-9 flex items-center justify-center bg-gradient-to-r from-primary to-nature hover:from-primary-hover hover:to-primary">
                   Solicitar Orçamento
-                </Button>
+                </a>
               </div>
             </nav>
           </div>

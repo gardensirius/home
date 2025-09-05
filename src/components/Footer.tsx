@@ -77,7 +77,7 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-primary-foreground/60" />
-                <a href="https://wa.me/85994198383" target="_blank" className="flex flex-col">
+                <a href="https://wa.me/+5585994198383" target="_blank" className="flex flex-col">
                   <span className="text-primary-foreground">(85) 99419-8383</span>
                   <span className="text-sm text-primary-foreground/60">WhatsApp e Ligações</span>
                 </a>

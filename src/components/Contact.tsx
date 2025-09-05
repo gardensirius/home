@@ -109,7 +109,7 @@ const Contact = () => {
                   <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center">
                     <Phone className="w-5 h-5 text-primary" />
                   </div>
-                  <a href="https://wa.me/85994198383" target="_blank">
+                  <a href="https://wa.me/+5585994198383" target="_blank">
                     <div className="font-medium text-foreground underline">(85) 99419-8383</div>
                     <div className="text-sm text-muted-foreground">WhatsApp e Ligações</div>
                   </a>

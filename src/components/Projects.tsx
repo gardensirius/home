@@ -118,7 +118,7 @@ const Projects = () => {
               Vamos criar algo extraordinário juntos!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="https://wa.me/85994198383" target="_blank" className="flex items-center justify-center gap-2 px-8 rounded-md h-11 text-primary-foreground bg-gradient-to-r from-primary to-nature hover:from-primary-hover hover:to-primary leading-[13px]">
+              <a href="https://wa.me/+5585994198383" target="_blank" className="flex items-center justify-center gap-2 px-8 rounded-md h-11 text-primary-foreground bg-gradient-to-r from-primary to-nature hover:from-primary-hover hover:to-primary leading-[13px]">
                 Solicitar Orçamento Gratuito
                 <ArrowRight className="w-4 h-4 ml-2" />
               </a>
