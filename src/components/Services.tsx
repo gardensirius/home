@@ -1,13 +1,10 @@
 import { Card } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
 import { 
   TreePine, 
   Droplets, 
   Wrench, 
   Home, 
   Calendar,
-  ArrowRight,
-  Scissors,
   Paintbrush
 } from "lucide-react";
 

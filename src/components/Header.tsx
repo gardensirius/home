@@ -1,6 +1,5 @@
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { Menu, X, Phone, Mail } from "lucide-react";
+import { Menu, X, Phone } from "lucide-react";
 import logoImage from "@/assets/logo-sirius-garden.png";
 
 const Header = () => {

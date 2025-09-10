@@ -1,6 +1,6 @@
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { ArrowRight, Calendar, Users, Droplets, TreePine, Home } from "lucide-react";
+import { ArrowRight, Droplets, TreePine } from "lucide-react";
 
 const Projects = () => {
   const caseStudies = [
