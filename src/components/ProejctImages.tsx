@@ -13,7 +13,7 @@ const ProjectImages = () => {
         <CarouselContent>
           {images.map((number) => (
             <CarouselItem>
-              <img className="max-h-[500px]" src={`/project-${number}.jpeg`} alt="" />
+              <img className="max-h-[500px]" src={`project-${number}.jpeg`} alt="" />
             </CarouselItem>
           ))}
         </CarouselContent>
